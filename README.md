@@ -1,4 +1,4 @@
-# Comparative-Analysis-of-Repeat-Ordering-Behaviour-and-Customer-Experience-Swiggy-Vs-Zomato-
+# Comparative-Analysis-of-Repeat-Ordering-Behaviour-&-Customer-Experience-Swiggy-Vs-Zomato-
 ## 📊 **PROJECT OVERVIEW**
 
 * This project analyzes repeat order behavior and customer experience using Power BI.
